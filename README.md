@@ -20,9 +20,9 @@ Full-stack software engineer in Dallas–Fort Worth. I build the interface and t
 
 ### What I work with
 
-**Front end:** React 19 · Next.js 15 · TypeScript · Redux Toolkit · Tailwind CSS · Vite · i18next
-**Back end:** Laravel 13 · PHP · REST APIs · Sanctum · NextAuth · Prisma · MySQL · Turso · Redis · WebSockets
-**Ship & test:** Docker · Nginx · GitHub Actions · Vercel · PHPUnit · Vitest · code review
+- **Front end:** React 19 · Next.js 15 · TypeScript · Redux Toolkit · Tailwind CSS · Vite · i18next
+- **Back end:** Laravel 13 · PHP · REST APIs · Sanctum · NextAuth · Prisma · MySQL · Turso · Redis · WebSockets
+- **Ship & test:** Docker · Nginx · GitHub Actions · Vercel · PHPUnit · Vitest · code review
 
 ---
 

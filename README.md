@@ -1,4 +1,4 @@
-### Serene Sheikhalard
+   <img src="./banner.png" alt="Serene Sheikhalard, full-stack software engineer" width="100%">
 
 Full-stack software engineer in Dallas–Fort Worth. I build the interface and the API behind it — React and Next.js on the front, Laravel on the back.
 

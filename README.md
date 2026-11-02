@@ -15,7 +15,7 @@ Full-stack software engineer in Dallas–Fort Worth. I build the interface and t
 | **[Marketlly](https://github.com/serenesheikh23/marketlly)** — multi-role digital marketplace with VIP tiers, crypto payment verification, and an automated fulfillment bot. | Laravel 13, React 19, Node.js, MySQL, Redis, Docker | [marketlly.store](https://marketlly.store) |
 | **Ismail Cosmetics** — bilingual Arabic/English RTL e-commerce, 110 API routes, 38-page SPA. Client work; repo private. | Laravel, React 19, Redux Toolkit, i18next | [ismailcosmetics.com](https://ismailcosmetics.com) |
 | **drama.gov.sy** — live government institutional CMS, public site + dashboard (built at Mad Fox; repo private) | Laravel, Blade, Tailwind, RTL | [drama.gov.sy](https://drama.gov.sy) |
-
+| **Light Promo** — a fully Arabic (RTL) creative agency website with a comprehensive service showcase. | Next.js, TypeScript, Tailwind CSS, i18next | [light-promo.com](https://light-promo.com) |
 ---
 
 ### What I work with
